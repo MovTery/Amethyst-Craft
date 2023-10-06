@@ -1,0 +1,11 @@
+{
+  "use.gauze": {
+    "subtitle": "subtitles.use_gauze",
+    "sounds": [
+      "amethystcraft:use/gauze1",
+      "amethystcraft:use/gauze2",
+      "amethystcraft:use/gauze3",
+      "amethystcraft:use/gauze4"
+    ]
+  }
+}

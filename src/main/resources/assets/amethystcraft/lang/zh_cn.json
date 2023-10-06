@@ -1,0 +1,24 @@
+{
+  "itemGroup.amethystcraft": "紫水晶工艺",
+
+  "subtitles.use_gauze":"纱布：使用",
+
+  "block.amethystcraft.suspicious_amethyst_block": "可疑的紫水晶块",
+  "block.amethystcraft.wrapped_suspicious_amethyst_block": "被包裹的可疑的紫水晶块",
+
+  "item.amethystcraft.amethyst_raw_stone": "紫水晶原石",
+  "item.amethystcraft.amethyst_with_diamonds": "镶钻紫水晶",
+  "item.amethystcraft.gauze": "纱布",
+  "item.amethystcraft.gauze_fragments": "纱布碎片",
+
+  "item.amethystcraft.amethyst_pickaxe": "紫水晶镐",
+  "item.amethystcraft.amethyst_axe": "紫水晶斧",
+  "item.amethystcraft.amethyst_hoe": "紫水晶锄",
+  "item.amethystcraft.amethyst_shovel": "紫水晶铲",
+  "item.amethystcraft.amethyst_sword": "紫水晶剑",
+  "item.amethystcraft.amethyst_with_diamonds_pickaxe": "镶钻紫水晶镐",
+  "item.amethystcraft.amethyst_with_diamonds_axe": "镶钻紫水晶斧",
+  "item.amethystcraft.amethyst_with_diamonds_hoe": "镶钻紫水晶锄",
+  "item.amethystcraft.amethyst_with_diamonds_shovel": "镶钻紫水晶铲",
+  "item.amethystcraft.amethyst_with_diamonds_sword": "镶钻紫水晶剑"
+}

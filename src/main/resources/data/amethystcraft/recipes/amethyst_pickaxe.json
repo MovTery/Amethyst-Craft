@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ACA",
+    " B ",
+    " B "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "amethystcraft:amethyst_raw_stone"
+    }
+  },
+  "result": {
+    "item": "amethystcraft:amethyst_pickaxe",
+    "count": 1
+  }
+}

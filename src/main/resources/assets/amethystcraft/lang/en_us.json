@@ -1,0 +1,24 @@
+{
+  "itemGroup.amethystcraft": "Amethyst Craft",
+
+  "subtitles.use_gauze":"Gauze Use",
+
+  "block.amethystcraft.suspicious_amethyst_block": "Suspicious Amethyst Block",
+  "block.amethystcraft.wrapped_suspicious_amethyst_block": "Wrapped Suspicious Amethyst Block",
+
+  "item.amethystcraft.amethyst_raw_stone": "Amethyst Raw Stone",
+  "item.amethystcraft.amethyst_with_diamonds": "Amethyst With Diamonds",
+  "item.amethystcraft.gauze": "Gauze",
+  "item.amethystcraft.gauze_fragments": "Gauze Fragments",
+
+  "item.amethystcraft.amethyst_pickaxe": "Amethyst Pickaxe",
+  "item.amethystcraft.amethyst_axe": "Amethyst Axe",
+  "item.amethystcraft.amethyst_hoe": "Amethyst Hoe",
+  "item.amethystcraft.amethyst_shovel": "Amethyst Shovel",
+  "item.amethystcraft.amethyst_sword": "Amethyst Sword",
+  "item.amethystcraft.amethyst_with_diamonds_pickaxe": "Amethyst With Diamonds Pickaxe",
+  "item.amethystcraft.amethyst_with_diamonds_axe": "Amethyst With Diamonds Axe",
+  "item.amethystcraft.amethyst_with_diamonds_hoe": "Amethyst With Diamonds Hoe",
+  "item.amethystcraft.amethyst_with_diamonds_shovel": "Amethyst With Diamonds Shovel",
+  "item.amethystcraft.amethyst_with_diamonds_sword": "Amethyst With Diamonds Sword"
+}

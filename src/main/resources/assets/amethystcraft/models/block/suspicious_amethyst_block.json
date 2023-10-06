@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "amethystcraft:block/suspicious_amethyst_block"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CA",
+    "B ",
+    "B "
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    },
+    "C": {
+      "item": "amethystcraft:amethyst_with_diamonds"
+    }
+  },
+  "result": {
+    "item": "amethystcraft:amethyst_with_diamonds_hoe",
+    "count": 1
+  }
+}

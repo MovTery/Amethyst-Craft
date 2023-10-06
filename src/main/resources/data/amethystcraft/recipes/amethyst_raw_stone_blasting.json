@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "amethystcraft:wrapped_suspicious_amethyst_block"
+  },
+  "result": "amethystcraft:amethyst_raw_stone",
+  "experience": 0.1,
+  "cookingtime": 210
+}
