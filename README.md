@@ -1,5 +1,5 @@
 # Amethyst Craft
-<img src="https://github.com/HopiHopy/Amethyst-Craft/blob/1.20.1/AmethystCraft.png" align="center" width="500" height="180" alt="Amethyst Craft">
+<img src="https://github.com/HopiHopy/Amethyst-Craft/blob/1.20.1/AmethystCraft.png" align="center" width="540" height="220" alt="Amethyst Craft">
 
 It makes the original amethyst more practical and makes the process more interesting.  
 You definitely wouldn't mind exploring the world with amethyst tools!  
