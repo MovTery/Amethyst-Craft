@@ -11,3 +11,5 @@ This Mod is still under development. If you have any good ideas or encounter bug
 * New Amethyst Blocks
 * New Amethyst Tool
 
+## Screenshot:
+<img src="https://github.com/HopiHopy/Amethyst-Craft/blob/1.20.1/Screenshot01.png" align="center" width="397" height="397" alt="Amethyst Craft">
