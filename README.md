@@ -1,5 +1,5 @@
 # Amethyst Craft
-This is an extended type of Mod that adds some content related to amethyst, It makes the original amethyst more practical and makes the process more interesting.  
+This is an extended type of Fabric Mod that adds some content related to amethyst, It makes the original amethyst more practical and makes the process more interesting.  
 You definitely wouldn't mind exploring the world with amethyst tools!
 
 This Mod is still under development. If you have any good ideas or encounter bugs while playing, please let the author know as soon as possible!
